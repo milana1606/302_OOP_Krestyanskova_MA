@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\RoomDecoratorTest::testStandardRoomWithInternet":8},"times":{"App\\RoomDecoratorTest::testEconomyRoom":0.001,"App\\RoomDecoratorTest::testMultipleDecorators":0.001,"App\\RoomDecoratorTest::testStandardRoomWithInternet":0.003,"App\\RoomDecoratorTest::testLuxuryRoomWithAllServices":0}}
